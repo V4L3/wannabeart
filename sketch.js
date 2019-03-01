@@ -93,7 +93,7 @@ function transferImages() {
   fotoTaken = true;
   let styleFloat = random(1,6)
   let style = Math.floor(styleFloat);
-  // let style = 2;
+  //let style = 1;
   loading.style.opacity = "100";
   console.log(style);
 
